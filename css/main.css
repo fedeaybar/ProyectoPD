@@ -1,0 +1,16 @@
+body {background-color: #FAE5D3 ;}
+.titulo {color: white;
+    background-color: #1A5276 ;
+    text-align: left;
+    font-size: 300%;
+    text-decoration:underline;
+    
+}
+.preparacion {text-align:center;
+align-items: center;
+font-size: 120%;}
+.preparacion2 {text-align: center;
+text-decoration: underline;
+font-size: 150%;}
+.prueba {text-align: center;}
+
